@@ -1,0 +1,1 @@
+Using Chat GPT I was able to create a website with the theme of Outdoor Adventures. I was able to include a picture of a mountain and different titles to read from. The prompts I used were asking Chat GPT to create a website with a theme of its choosing, and to style it with CSS with the guidelines of the assignment.

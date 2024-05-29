@@ -1,0 +1,72 @@
+/* styles.css */
+
+/* Reset Styles */
+* {
+    box-sizing: border-box; /* Ensures padding and border don't affect element's total width */
+}
+
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Light Gray Background */
+    color: #333333; /* Dark Gray Text */
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styling */
+header {
+    background-color: #6699cc; /* Blue Header Background */
+    padding: 20px;
+    text-align: center;
+    color: #ffffff; /* White Text */
+}
+
+/* Navigation Bar Styling */
+nav {
+    background-color: #336699; /* Dark Blue Navigation Background */
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #ffffff; /* White Text for Navigation Links */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #cccccc; /* Light Gray Text on Hover */
+}
+
+/* Main Content Area Styling */
+main {
+    padding: 20px;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #336699; /* Dark Blue Footer Background */
+    padding: 20px;
+    text-align: center;
+    color: #ffffff; /* White Text */
+}
+
+/* Image Styling */
+img {
+    display: block; /* Ensures image is centered */
+    margin: 0 auto; /* Centers the image horizontally */
+    max-width: 100%; /* Ensures image does not exceed its container's width */
+    height: auto; /* Allows image to scale proportionally */
+}
